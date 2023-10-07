@@ -5,6 +5,7 @@
  $a = 42;
  $b = 20;
  $z = 90;
+ $power = 50;
 
  $c = $a + $b;
  echo "Addition Operation Result: $c <br/>";
