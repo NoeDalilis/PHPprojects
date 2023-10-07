@@ -4,7 +4,8 @@
 <?php
  $a = 42;
  $b = 20;
- 
+ $z = 90;
+
  $c = $a + $b;
  echo "Addition Operation Result: $c <br/>";
  $c = $a - $b;
